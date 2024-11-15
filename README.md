@@ -1,7 +1,7 @@
 # AI Agents Framework Summary
 
 <details>
-<summary>## Agent Theoretical Foundations</summary>
+<summary>Agent Theoretical Foundations</summary>
 
 ### What is an AI Agent
 An AI Agent is a computational system capable of perceiving its environment and taking autonomous actions to achieve specific goals. It consists of the following core elements:
@@ -55,7 +55,7 @@ An AI Agent is a computational system capable of perceiving its environment and 
 </details>
 
 <details>
-<summary>## Single-Agent Projects</summary>
+<summary>Single-Agent Projects</summary>
 
 ### 1. BabyAGI
 - Description: A powerful yet simple AI task management system
@@ -147,7 +147,7 @@ An AI Agent is a computational system capable of perceiving its environment and 
 </details>
 
 <details>
-<summary>## Multi-Agent Projects</summary>
+<summary>Multi-Agent Projects</summary>
 
 ### 1. Stanford Alpaca Town
 - Description: Innovative multi-agent social interaction simulation system
@@ -273,21 +273,4 @@ An AI Agent is a computational system capable of perceiving its environment and 
 - Open Source Status: ✅ Open Source
 - GitHub: https://github.com/camel-ai/camel
 - Paper: https://arxiv.org/abs/2303.17760
-</details>
-
-<details>
-<summary>## Notes & Guidelines</summary>
-
-### Notes
-- All projects are under active development, features may update regularly
-- Check latest documentation and license requirements before use
-- Some projects may require specific API keys or resources
-- Read project documentation and example code before implementation
-- Follow update logs for latest features and fixes
-
-### Selection Guidelines
-- Single Task Processing: Recommend Single-Agent projects
-- Complex Project Collaboration: Recommend Multi-Agent projects
-- Development and Testing: Choose projects with comprehensive documentation
-- Research Purposes: Consider both open source and paper-referenced projects
 </details>
