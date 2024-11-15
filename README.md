@@ -2,6 +2,7 @@
 
 ## Quick Overview
 
+### Single-Agent Frameworks
 | Name | Description | GitHub/Paper |
 |------|-------------|--------------|
 | BabyAGI | Simple AI task management system | [GitHub](https://github.com/yoheinakajima/babyagi) |
@@ -12,6 +13,10 @@
 | AppAgent | Mobile app automation agent | [GitHub](https://github.com/mnotgod96/AppAgent) |
 | OS-Copilot | System operation assistant | [GitHub](https://github.com/OS-Copilot/OS-Copilot) |
 | LangGraph | Language model graph processing | [GitHub](https://github.com/langchain-ai/langgraph) |
+
+### Multi-Agent Frameworks
+| Name | Description | GitHub/Paper |
+|------|-------------|--------------|
 | Stanford Alpaca Town | Social interaction simulation | [Paper](https://arxiv.org/abs/2304.03442) |
 | MetaGPT | Software development team simulation | [GitHub](https://github.com/geekan/MetaGPT) |
 | AutoGen | Microsoft's multi-agent framework | [GitHub](https://github.com/microsoft/autogen) |
