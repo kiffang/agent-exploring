@@ -1,5 +1,29 @@
 # AI Agents Framework Summary
 
+## Quick Overview
+
+| Name | Description | GitHub/Paper |
+|------|-------------|--------------|
+| BabyAGI | Simple AI task management system | [GitHub](https://github.com/yoheinakajima/babyagi) |
+| AutoGPT | Autonomous GPT-4 agent system | [GitHub](https://github.com/Significant-Gravitas/Auto-GPT) |
+| HuggingGPT | Hugging Face + GPT integration assistant | [GitHub](https://github.com/microsoft/JARVIS) |
+| GPT-Engineer | AI code generator from descriptions | [GitHub](https://github.com/AntonOsika/gpt-engineer) |
+| Samantha | Emotional AI assistant | [GitHub](https://github.com/microsoft/SAMANTHA) |
+| AppAgent | Mobile app automation agent | [GitHub](https://github.com/mnotgod96/AppAgent) |
+| OS-Copilot | System operation assistant | [GitHub](https://github.com/OS-Copilot/OS-Copilot) |
+| LangGraph | Language model graph processing | [GitHub](https://github.com/langchain-ai/langgraph) |
+| Stanford Alpaca Town | Social interaction simulation | [Paper](https://arxiv.org/abs/2304.03442) |
+| MetaGPT | Software development team simulation | [GitHub](https://github.com/geekan/MetaGPT) |
+| AutoGen | Microsoft's multi-agent framework | [GitHub](https://github.com/microsoft/autogen) |
+| ChatDev | Collaborative development framework | [GitHub](https://github.com/OpenBMB/ChatDev) |
+| GPTTeam | Professional team collaboration | [GitHub](https://github.com/101dotxyz/GPTTeam) |
+| GPT Researcher | Research-focused agent system | [GitHub](https://github.com/assafelovic/gpt-researcher) |
+| TaskWeaver | Task orchestration framework | [GitHub](https://github.com/microsoft/TaskWeaver) |
+| Microsoft UFO | Function orchestration framework | [Research](https://www.microsoft.com/en-us/research/project/ufo/) |
+| CrewAI | Team collaboration framework | [GitHub](https://github.com/joaomdmoura/crewAI) |
+| AgentScope | Agent development framework | [GitHub](https://github.com/modelscope/agentscope) |
+| CAMEL | Agent communication framework | [GitHub](https://github.com/camel-ai/camel) |
+
 <details>
 <summary>Agent Theoretical Foundations</summary>
 
